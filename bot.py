@@ -30,7 +30,7 @@ hleb = ["https://www.youtube.com/watch?v=OvZUf7YOBmU",
 def henn(message):
 	i = 1
 	while  i < 1000000:
-		bot.send_message(message.chat.id, 'Глебка, нюхай какашку')
+		bot.send_message(message.chat.id, 'Саша мосин Говноед лоханский')
 		pass
 
 if __name__ == '__main__':
